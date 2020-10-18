@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Image.asset('assets/pics/bg-splashsite.jpg', alignment: Alignment.center, fit: BoxFit.cover,),
             Center(
             child: Text(
-              '\"It works.\"',
+              'Hier entsteht eine coole Webseite.',
               style: TextStyle(color: Colors.white, fontSize: 30),
               textAlign: TextAlign.center,
             ),
